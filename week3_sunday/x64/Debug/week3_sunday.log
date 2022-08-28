@@ -1,0 +1,3 @@
+﻿  classWork_5.c
+C:\Users\User\source\repos\week3_sunday\week3_sunday\classWork_5.c(10,3): warning C4013: 'exit' undefined; assuming extern returning int
+  week3_sunday.vcxproj -> C:\Users\User\source\repos\week3_sunday\x64\Debug\week3_sunday.exe
